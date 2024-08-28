@@ -1,1 +1,1 @@
-This repo contains all the scripts of the game and a .exe file which you can downaload and play.
+This repo contains all the scripts of the game and a .exe file which you can download and play.
